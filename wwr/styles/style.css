@@ -1,52 +1,55 @@
-#content{
-    max-width: 1600px;
-    margin: 0 auto;
+#content {
+  max-width: 1600px;
+  margin: 0 auto;
 }
 
-nav a{
-    text-align: center;
+nav a {
+  text-align: center;
 }
 
-#hero-msg h1, #hero-msg h4{
-    text-align: center;
+#hero-msg h1,
+#hero-msg h4 {
+  text-align: center;
 }
 
-.button-box{
-    text-align: center;
+.button-box {
+  text-align: center;
 }
 
-main section{
-    text-align: center;
+main section {
+  text-align: center;
 }
 
-#background{
-    height: 725px;
-    background-color: ;
+#background {
+  height: 725px;
+  background-color:;
 }
 
 body {
-    background-color: ;
+  background-color:;
 }
 
 header {
-    background-color: ;
+  background-color:;
 }
 
 nav a:hover {
-    background-color: white;
+  background-color: white;
 }
-.book, .join{
-    background-color: #396E94;
+.book,
+.join {
+  background-color: #396e94;
 }
 
-.book:hover, .join:hover {
-    background-color: white;
+.book:hover,
+.join:hover {
+  background-color: white;
 }
 
 .msg {
-    background-color: ;
+  background-color:;
 }
 
 footer {
-    background-color: ;
+  background-color:;
 }
