@@ -73,7 +73,7 @@ nav a:hover {
 }
 .book,
 .join {
-  background-color: #396e94;
+  background-color: #3B6064;
   color: white;
   text-decoration: none;
   font-size: 18px;
@@ -218,7 +218,7 @@ h2 {
 }
 
 .card-img {
-  border: black 10px solid;
+  border: #364958 10px solid;
   transition: transform .5s;
   box-shadow: 5px 5px 10px #364958;
 }
